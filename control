@@ -1,0 +1,9 @@
+Package: com.ps.rwpslider
+Name: RWP Slider
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Brightness slider for Reduce White Point when enabled.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
